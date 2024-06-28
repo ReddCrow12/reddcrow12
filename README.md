@@ -1,4 +1,4 @@
-[https://media.gifdb.com/hacker-hacking-loading-bar-gc4ryfth555j9ti0.gif](https://gifdb.com/gif/hacker-hacking-loading-bar-gc4ryfth555j9ti0.html?embed=true)
+<img align="right" alt="coding" width="400" src="https://media.gifdb.com/hacker-hacking-loading-bar-gc4ryfth555j9ti0.gif">
 
 <h1 align="center">Hi 👋, I'm Redd Crow</h1>
 <h3 align="center">A hacker & cyber security 16 years old from Israel ✡️</h3>
