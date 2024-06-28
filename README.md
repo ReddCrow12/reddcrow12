@@ -1,5 +1,4 @@
-![image](https://github.com/ReddCrow12/reddcrow12/assets/173953884/c1f327e4-07d0-4e1d-b8c1-247b1feede9f)
-
+https://media.gifdb.com/hacker-hacking-loading-bar-gc4ryfth555j9ti0.gif
 
 <h1 align="center">Hi 👋, I'm Redd Crow</h1>
 <h3 align="center">A hacker & cyber security 16 years old from Israel ✡️</h3>
