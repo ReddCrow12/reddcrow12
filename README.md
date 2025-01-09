@@ -15,25 +15,7 @@
 
 - 📫 How to reach me **unafraidil94@gmail.com**
   
-name: TryHackMe Update Badge
-
-on:
-  schedule:
-    # Make it run every 24 hour
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-jobs:
-  tryhackme-badge-update:
-    name: Update this repo's tryhackme badge with the latest tryhackme image badge
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
-        with:
-          # Replace with your tryhackme username
-          username: "ziv.co22"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
-                                                  # and will pull your github token automatically
+![tryhackme stats](https://raw.githubusercontent.com/ziv.co22/ziv.co22/master/assets/thm_propic.png)
                                                   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
