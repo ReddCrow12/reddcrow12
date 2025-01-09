@@ -14,8 +14,27 @@
 - 💬 Ask me about **hacking, socket programming and security problems**
 
 - 📫 How to reach me **unafraidil94@gmail.com**
-  https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3264932
+  
+name: TryHackMe Update Badge
 
+on:
+  schedule:
+    # Make it run every 24 hour
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  tryhackme-badge-update:
+    name: Update this repo's tryhackme badge with the latest tryhackme image badge
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: p4p1/tryhackme-badge-workflow@main
+        with:
+          # Replace with your tryhackme username
+          username: "ziv.co22"
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
+                                                  # and will pull your github token automatically
+                                                  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/reddcrow_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="reddcrow_69" height="30" width="40" /></a>
