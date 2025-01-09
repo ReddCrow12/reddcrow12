@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **unafraidil94@gmail.com**
   
- ![image](https://tryhackme-badges.s3.amazonaws.com/ziv.co22.png)
+ ![image](https://tryhackme-badges.s3.amazonaws.com/ReddCrow.png)
                                                   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
