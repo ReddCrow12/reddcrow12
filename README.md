@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **unafraidil94@gmail.com**
   
- ![image]([https://raw.githubusercontent.com/ziv.co22/ziv.co22/master/assets/thm_propic.png](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3264932))
+ ![image](https://tryhackme-badges.s3.amazonaws.com/ziv.co22.png)
                                                   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
