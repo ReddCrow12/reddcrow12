@@ -14,7 +14,7 @@
 - 💬 Ask me about **hacking, socket programming and security problems**
 
 - 📫 How to reach me **unafraidil94@gmail.com**
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3264932" style='border:none;'></iframe>
+  https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3264932
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
