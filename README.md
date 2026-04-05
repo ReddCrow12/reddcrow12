@@ -9,7 +9,7 @@
 - 🌐 Check my TryHackMe profile: [Redd Crow](https://tryhackme.com/p/ReddCrow)  
 
 - 👯 Open to collaborations on **Bug Bounty Hunting | CTF Tournaments**
-- 🤝 Looking for opportunities to express my skills.
+- 🤝 Available for Bug Bounty collaborations & Security Consulting.
 - 💬 Ask me about **ethical hacking, Websites Logic Flaws, and Ethical Trainning Labs**
 - 📫 Reach me at: zivc0979@gmail.com
 
