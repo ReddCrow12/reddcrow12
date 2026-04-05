@@ -30,7 +30,7 @@
 
   <!-- Web Security / Exploitation -->
   <a href="https://thenounproject.com/icon/web-security-749516/" target="_blank">
-    <img src="https://static.thenounproject.com/png/web-security-icon-749516-512.png" alt="Web Security" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/12027/12027971.png" alt="Web Security" width="50" height="50"/>
   </a>
 
   <!-- Wireshark -->
