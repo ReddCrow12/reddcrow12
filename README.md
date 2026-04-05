@@ -1,4 +1,4 @@
-
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4c22ec98-01b1-4f8a-933d-f01e4ae702a0" />
 
 <h1 align="center">Hi 👋, I'm Ziv Cohen | AKA ReddCrow</h1>
 <h3 align="center">Bug Bounty Hunter | Ethical Hacker | Penetration Tester</h3>
@@ -25,7 +25,7 @@
 
   <!-- Windows -->
   <a href="https://www.microsoft.com/windows" target="_blank">
-    <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/250px-Windows_logo_-_2012.svg.png" alt="Windows " width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/250px-Windows_logo_-_2012.svg.png" alt="Windows" width="50" height="50"/>
   </a>
 
   <!-- Web Security / Exploitation -->
@@ -45,7 +45,7 @@
 
   <!-- CCNA -->
   <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html" target="_blank">
-    <img src="https://freesvg.org/ccna-routing-and-switching-logo" alt="CCNA" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/17994/17994558.png" alt="CCNA" width="50" height="50"/>
   </a>
 
 </p>
