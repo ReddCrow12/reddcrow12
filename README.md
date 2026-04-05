@@ -1,4 +1,4 @@
-<img width="960" height="958" alt="image" src="https://github.com/user-attachments/assets/2c29b236-c87e-428f-acd1-340bc3e07a55" /><img align="right" alt="coding" width="400" src="https://media.gifdb.com/hacker-hacking-loading-bar-gc4ryfth555j9ti0.gif">
+
 
 <h1 align="center">Hi 👋, I'm Ziv Cohen | AKA ReddCrow</h1>
 <h3 align="center">Bug Bounty Hunter | Ethical Hacker | Penetration Tester</h3>
