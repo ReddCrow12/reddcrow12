@@ -75,7 +75,7 @@
 <p align="center">
   <img src="https://tryhackme-production-skills-matrix.s3.eu-west-1.amazonaws.com/ReddCrow-1775402630366.png" 
        alt="TryHackMe Skills Matrix" 
-       width="400" 
+       width="600" 
        style="border-radius:15px;"/>
 </p>
 
