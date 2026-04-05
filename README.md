@@ -17,25 +17,35 @@
 
 <h3 align="left">Current Knowledge & Skills:</h3>
 <p align="left">
-  <!-- Operating Systems -->
+
+  <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="50" height="50"/>
   </a>
+
+  <!-- Windows -->
   <a href="https://www.microsoft.com/windows" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" alt="Windows" width="50" height="50"/>
   </a>
 
-  <!-- Networking & Security -->
-  <a href="https://thenounproject.com/icon/vulnerability-check-8144758/" target="_blank">
-    <img src="https://static.thenounproject.com/png/8144758-512.png" alt="Web Exploitation & Vulnerability" width="50" height="50"/>
+  <!-- Web Security / Exploitation -->
+  <a href="https://thenounproject.com/icon/web-security-749516/" target="_blank">
+    <img src="https://static.thenounproject.com/png/web-security-icon-749516-512.png" alt="Web Security" width="50" height="50"/>
   </a>
+
+  <!-- Wireshark -->
   <a href="https://www.wireshark.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Wireshark_logo.svg" alt="Wireshark" width="50" height="50"/>
   </a>
-  <a href="https://thenounproject.com/search/?q=security+shield&i=7929419" target="_blank">
-    <img src="https://static.thenounproject.com/png/7929419-512.png" alt="Security Fundamentals" width="50" height="50"/>
+
+  <!-- General Security -->
+  <a href="https://thenounproject.com/icon/security-2119053/" target="_blank">
+    <img src="https://static.thenounproject.com/png/security-icon-2119053-512.png" alt="Security" width="50" height="50"/>
   </a>
-  <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Cisco_logo_blue_2016.svg" alt="CCNA / Cisco" width="50" height="50"/>
+
+  <!-- CCNA -->
+  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">
+    <img src="https://static.thenounproject.com/png/1829169-200.png" alt="CCNA" width="50" height="50"/>
   </a>
+
 </p>
