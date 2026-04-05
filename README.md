@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ziv Cohen | AKA ReddCrow</h1>
 <h3 align="center">Bug Bounty Hunter | Ethical Hacker | Penetration Tester</h3>
----
+
 
 - 🔭 I have reached WIZARD level on [TryHackMe](https://tryhackme.com/p/ReddCrow) 
 - 🌱 I'm sharing my Process & Tools to Success.
@@ -23,14 +23,10 @@
 <p align="left"> 
   <!-- Programming & Scripting -->
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-
-  <!-- Operating Systems -->
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/windows" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
 
-  <!-- Tools & Platforms -->
+
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://tryhackme.com" target="_blank"> <img src="https://tryhackme-badges.s3.amazonaws.com/ReddCrow.png" alt="tryhackme" width="40" height="40"/> </a>
   <a href="https://www.hackthebox.eu" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/HackTheBox_Logo.svg" alt="htb" width="40" height="40"/> </a>
