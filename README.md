@@ -25,7 +25,7 @@
 
   <!-- Windows -->
   <a href="https://www.microsoft.com/windows" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" alt="Windows" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/250px-Windows_logo_-_2012.svg.png" alt="Windows" width="50" height="50"/>
   </a>
 
   <!-- Web Security / Exploitation -->
