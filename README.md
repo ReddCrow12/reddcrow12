@@ -39,13 +39,13 @@
   </a>
 
   <!-- General Security -->
-  <a href="https://thenounproject.com/icon/security-2119053/" target="_blank">
-    <img src="https://static.thenounproject.com/png/security-icon-2119053-512.png" alt="Security" width="50" height="50"/>
+  <a href="https://www.hackerone.com/bug-bounty-programs" target="_blank">
+    <img src="https://sourcecodered.com/wp-content/uploads/2024/07/bug-bounty-circle-general-logo.png" alt="Security" width="50" height="50"/>
   </a>
 
   <!-- CCNA -->
-  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">
-    <img src="https://static.thenounproject.com/png/1829169-200.png" alt="CCNA" width="50" height="50"/>
+  <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html" target="_blank">
+    <img src="https://freesvg.org/ccna-routing-and-switching-logo" alt="CCNA" width="50" height="50"/>
   </a>
 
 </p>
