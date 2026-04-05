@@ -72,8 +72,9 @@
 ---
 
 ## 📈 THM Capability Score: 
-
-<img src="https://tryhackme.com/share/capability-score/ReddCrow" alt="TryHackMe Capability Score" width="400"/>
+<p align="center">
+  <img src="https://tryhackme.com/share/capability-score/ReddCrow" alt="TryHackMe Capability Score" width="400"/>
+</p>
 ---
 
 ## 📬 Contact
