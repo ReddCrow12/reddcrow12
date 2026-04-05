@@ -28,7 +28,7 @@
 
 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://tryhackme.com" target="_blank"> <img src="https://medium.com/@ZtotheZ/the-story-goes-so-far-the-adventure-of-tryhackme-begins-at-your-start-90ecf780cab4" alt="tryhackme" width="40" height="40"/> </a>
+  <a href="https://tryhackme.com" target="_blank"> <img src="https://friconix.com/jpg/fi-snsuxx-tryhackme.jpg" alt="tryhackme" width="40" height="40"/> </a>
   <a href="https://www.hackthebox.eu" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/HackTheBox_Logo.svg" alt="htb" width="40" height="40"/> </a>
 
   <!-- Security & Hacking -->
