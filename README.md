@@ -73,7 +73,10 @@
 
 ## 📈 THM Skills Matrix: 
 <p align="center">
-  <img src="https://tryhackme-production-skills-matrix.s3.eu-west-1.amazonaws.com/ReddCrow-1775402630366.png" alt="TryHackMe Skills Matrix" width="600"/>
+  <img src="https://tryhackme-production-skills-matrix.s3.eu-west-1.amazonaws.com/ReddCrow-1775402630366.png" 
+       alt="TryHackMe Skills Matrix" 
+       width="400" 
+       style="border-radius:15px;"/>
 </p>
 ---
 
