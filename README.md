@@ -19,10 +19,11 @@
 
 | 🏅 Platform | 📊 Level / Status |
 |---|---|
-| 🧙 TryHackMe | WIZARD |
+| 🧙 TryHackMe | WIZARD 0xA |
 | 🐛 HackerOne | Active Hunter |
-| 🎯 Bugcrowd | Active Hunter |
-| 🚩 CTF Competitions | 30+ Completed |
+| 🎯 PortSwigger | Learning |
+| 🚩 CTFs | 30+ Completed |
+| 🏆 CTF Tournaments | 2 Completed |
 
 ---
 
@@ -33,6 +34,40 @@
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+<p align="left">
+
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="50" height="50"/>
+  </a>
+
+  <!-- Windows -->
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/250px-Windows_logo_-_2012.svg.png" alt="Windows" width="50" height="50"/>
+  </a>
+
+  <!-- Web Security / Exploitation -->
+  <a href="https://owasp.org/Top10/2025/" target="_blank">
+    <img src="https://cdn.prod.website-files.com/6225a414ab1e86e4cd4c71d0/62847f1b80f778737b843dc5_owasp%20top%2010.png" alt="Web Security" width="50" height="50"/>
+  </a>
+
+  <!-- Wireshark -->
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://miro.medium.com/1*sOhbhWnnmBx7TxHddLPW0Q.png" alt="Wireshark" width="50" height="50"/>
+  </a>
+
+  <!-- General Security -->
+  <a href="https://www.hackerone.com/bug-bounty-programs" target="_blank">
+    <img src="https://sourcecodered.com/wp-content/uploads/2024/07/bug-bounty-circle-general-logo.png" alt="Security" width="50" height="50"/>
+  </a>
+
+  <!-- CCNA -->
+  <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/17994/17994558.png" alt="CCNA" width="50" height="50"/>
+  </a>
+
+</p>
 
 ---
 
