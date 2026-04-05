@@ -71,9 +71,9 @@
 
 ---
 
-## 📈 THM Capability Score: 
+## 📈 THM Skills Matrix: 
 <p align="center">
-  ![TryHackMe Score](https://img.shields.io/badge/TryHackMe-Capability%20Score-blue)](https://tryhackme.com/share/capability-score/ReddCrow)
+  <img src="https://tryhackme-production-skills-matrix.s3.eu-west-1.amazonaws.com/ReddCrow-1775402630366.png" alt="TryHackMe Skills Matrix" width="600"/>
 </p>
 ---
 
