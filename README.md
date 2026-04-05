@@ -14,28 +14,26 @@
 - 💬 Ask me about **ethical hacking, Websites Logic Flaws, and Ethical Trainning Labs**
 - 📫 Reach me at: zivc0979@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.gg/reddcrow_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="reddcrow_69" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Current Knowledge & Skills:</h3>
 <p align="left"> 
-  <!-- Programming & Scripting -->
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/windows" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
-
-
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://tryhackme.com" target="_blank"> <img src="https://friconix.com/jpg/fi-snsuxx-tryhackme.jpg" alt="tryhackme" width="40" height="40"/> </a>
-  <a href="https://www.hackthebox.eu" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/HackTheBox_Logo.svg" alt="htb" width="40" height="40"/> </a>
-
-  <!-- Security & Hacking -->
-  <a href="https://portswigger.net/burp" target="_blank"> <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="burpsuite" width="40" height="40"/> </a>
-  <a href="https://www.wireshark.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Wireshark_logo.svg" alt="wireshark" width="40" height="40"/> </a>
-  <a href="https://www.nmap.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Nmap_logo.svg" alt="nmap" width="40" height="40"/> </a>
-  
-  <!-- Misc / Learning -->
-  <a href="https://www.ctftime.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/CTFtime_logo.png" alt="ctftime" width="40" height="40"/> </a>
+  <!-- Operating Systems -->
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="50" height="50"/> 
+  </a>
+  <a href="https://www.microsoft.com/windows" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" alt="windows" width="50" height="50"/> 
+  </a>
+  <a href="https://portswigger.net/web-security" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Web_exploitation_icon.png" alt="web exploitation" width="50" height="50"/> 
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Wireshark_logo.svg" alt="wireshark" width="50" height="50"/> 
+  </a>
+  <a href="https://www.coursera.org/learn/security-101" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Security_icon.png" alt="security 101" width="50" height="50"/> 
+  </a>
+  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Cisco_logo_blue_2016.svg" alt="ccna" width="50" height="50"/> 
+  </a>
 </p>
