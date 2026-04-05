@@ -14,7 +14,7 @@
 - 📫 Reach me at: zivc0979@gmail.com
 
 
-<h3 align="left">Current Knowledge & Skills:</h3>
+<h3 align="left">Current Skills:</h3>
 <p align="left">
 
   <!-- Linux -->
