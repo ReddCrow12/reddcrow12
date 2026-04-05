@@ -72,9 +72,9 @@
 ---
 
 ## 📈 THM Capability Score: 
-
-[![TryHackMe Score](https://img.shields.io/badge/TryHackMe-Capability%20Score-blue)](https://tryhackme.com/share/capability-score/ReddCrow)
-
+<p align="center">
+  [![TryHackMe Score](https://img.shields.io/badge/TryHackMe-Capability%20Score-blue)](https://tryhackme.com/share/capability-score/ReddCrow)
+</p>
 ---
 
 ## 📬 Contact
