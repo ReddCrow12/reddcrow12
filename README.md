@@ -71,9 +71,9 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 THM Capability Score: 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReddCrow12&show_icons=true&theme=dark)
+![capability score](https://tryhackme.com/share/capability-score/ReddCrow)
 
 ---
 
