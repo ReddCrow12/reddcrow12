@@ -29,8 +29,8 @@
   </a>
 
   <!-- Web Security / Exploitation -->
-  <a href="https://thenounproject.com/icon/web-security-749516/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/12027/12027971.png" alt="Web Security" width="50" height="50"/>
+  <a href="https://owasp.org/Top10/2025/" target="_blank">
+    <img src="https://cdn.prod.website-files.com/6225a414ab1e86e4cd4c71d0/62847f1b80f778737b843dc5_owasp%20top%2010.png" alt="Web Security" width="50" height="50"/>
   </a>
 
   <!-- Wireshark -->
